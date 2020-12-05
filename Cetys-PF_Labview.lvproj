@@ -52,7 +52,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="crearQry.dll" Type="Document" URL="../../../Maestria/Arquitectura y desarrollo de software/Proyecto_final/Labview/SQL/crearQry.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="myBuildSpec" Type="EXE">
